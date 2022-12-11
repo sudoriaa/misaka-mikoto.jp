@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /styles/footer.html
+Disallow: /pages/about/ssl/index.html
+Disallow: /pages/isml
+Disallow: /pages/discuss
+
